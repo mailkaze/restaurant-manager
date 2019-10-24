@@ -1,0 +1,181 @@
+[
+    {
+        "id_comanda": 0,
+        "fecha": "29/9/2019",
+        "hora": "23:49",
+        "num_mesa": "4",
+        "dict_pedido": {
+            "3": 1,
+            "10": 2,
+            "7": 3,
+            "15": 1
+        },
+        "notas": "poco hecho",
+        "cobrado": 0,
+        "estado": "PENDIENTE"
+    },
+    {
+        "id_comanda": 1,
+        "fecha": "29/9/2019",
+        "hora": "23:52",
+        "num_mesa": "14",
+        "dict_pedido": {
+            "14": 2,
+            "15": 2,
+            "11": 2,
+            "7": 1
+        },
+        "notas": "sin ensalada",
+        "cobrado": 0,
+        "estado": "PENDIENTE"
+    },
+    {
+        "id_comanda": 2,
+        "fecha": "2/10/2019",
+        "hora": "23:54",
+        "num_mesa": "2",
+        "dict_pedido": {
+            "3": 2,
+            "7": 1,
+            "10": 1
+        },
+        "notas": "nos movimos a la mesa 2",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 3,
+        "fecha": "2/10/2019",
+        "hora": "0:31",
+        "num_mesa": "5",
+        "dict_pedido": {
+            "11": 1
+        },
+        "notas": "",
+        "cobrado": 0,
+        "estado": "RECHAZADO"
+    },
+    {
+        "id_comanda": 4,
+        "fecha": "2/10/2019",
+        "hora": "0:37",
+        "num_mesa": "8",
+        "dict_pedido": {
+            "14": 1,
+            "15": 1,
+            "10": 2
+        },
+        "notas": "rapido",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 5,
+        "fecha": "2/10/2019",
+        "hora": "1:42",
+        "num_mesa": "7",
+        "dict_pedido": {
+            "2": 4,
+            "7": 4
+        },
+        "notas": "en paellera",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 6,
+        "fecha": "2/10/2019",
+        "hora": "13:51",
+        "num_mesa": "6",
+        "dict_pedido": {
+            "1": 2,
+            "13": 1,
+            "10": 1
+        },
+        "notas": "",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 7,
+        "fecha": "2/10/2019",
+        "hora": "13:59",
+        "num_mesa": "8",
+        "dict_pedido": {
+            "14": 1,
+            "15": 1
+        },
+        "notas": "",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 8,
+        "fecha": "2/10/2019",
+        "hora": "14:4",
+        "num_mesa": "10",
+        "dict_pedido": {
+            "1": 3,
+            "13": 1,
+            "10": 1
+        },
+        "notas": "",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 9,
+        "fecha": "2/10/2019",
+        "hora": "14:6",
+        "num_mesa": "11",
+        "dict_pedido": {
+            "14": 3,
+            "15": 1
+        },
+        "notas": "",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 10,
+        "fecha": "2/10/2019",
+        "hora": "16:5",
+        "num_mesa": "12",
+        "dict_pedido": {
+            "14": 1,
+            "15": 1,
+            "10": 1,
+            "6": 1
+        },
+        "notas": "",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 11,
+        "fecha": "2/10/2019",
+        "hora": "16:7",
+        "num_mesa": "13",
+        "dict_pedido": {
+            "1": 3,
+            "3": 1
+        },
+        "notas": "",
+        "cobrado": 0,
+        "estado": "LISTO"
+    },
+    {
+        "id_comanda": 12,
+        "fecha": "2/10/2019",
+        "hora": "16:9",
+        "num_mesa": "14",
+        "dict_pedido": {
+            "2": 2,
+            "14": 1,
+            "15": 1
+        },
+        "notas": "",
+        "cobrado": 0,
+        "estado": "LISTO"
+    }
+]

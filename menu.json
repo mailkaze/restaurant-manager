@@ -1,0 +1,107 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Paella Campesina",
+        "descripcion": "",
+        "precio": 35,
+        "stock": 10
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Paella Tierra y Mar",
+        "descripcion": "",
+        "precio": 59,
+        "stock": 6
+    },
+    {
+        "id_producto": 3,
+        "nombre": "Paella Marinera",
+        "descripcion": "",
+        "precio": 80,
+        "stock": 10
+    },
+    {
+        "id_producto": 4,
+        "nombre": "Guiso Madrile\u00c3\u00b1o",
+        "descripcion": "",
+        "precio": 42,
+        "stock": 10
+    },
+    {
+        "id_producto": 5,
+        "nombre": "Trucha",
+        "descripcion": "",
+        "precio": 42,
+        "stock": 10
+    },
+    {
+        "id_producto": 6,
+        "nombre": "Cerveza Huari",
+        "descripcion": "",
+        "precio": 22,
+        "stock": 10
+    },
+    {
+        "id_producto": 7,
+        "nombre": "Copa de vino",
+        "descripcion": "",
+        "precio": 12,
+        "stock": 10
+    },
+    {
+        "id_producto": 8,
+        "nombre": "Jarra de sangr\u00c3\u00ada",
+        "descripcion": "",
+        "precio": 65,
+        "stock": 10
+    },
+    {
+        "id_producto": 9,
+        "nombre": "Tabla Espa\u00c3\u00b1ola",
+        "descripcion": "",
+        "precio": 95,
+        "stock": 10
+    },
+    {
+        "id_producto": 10,
+        "nombre": "Coca-Cola 500ml",
+        "descripcion": "",
+        "precio": 11,
+        "stock": 10
+    },
+    {
+        "id_producto": 11,
+        "nombre": "Caf\u00c3\u00a9 Expreso",
+        "descripcion": "",
+        "precio": 8.5,
+        "stock": 10
+    },
+    {
+        "id_producto": 12,
+        "nombre": "Pulpo a la Gallega",
+        "descripcion": "",
+        "precio": 35,
+        "stock": 10
+    },
+    {
+        "id_producto": 13,
+        "nombre": "Calamares a la Romana",
+        "descripcion": "",
+        "precio": 35,
+        "stock": 10
+    },
+    {
+        "id_producto": 14,
+        "nombre": "Almuerzo A",
+        "descripcion": "milanesa de res",
+        "precio": 32,
+        "stock": 19
+    },
+    {
+        "id_producto": 15,
+        "nombre": "Almuerzo B",
+        "descripcion": "lasa\u00c3\u00b1a mixta",
+        "precio": 32,
+        "stock": 19
+    }
+]
